@@ -75,16 +75,6 @@ Passive multimodal stress detection system for Indian college students. Built wi
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikpatel3076&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=FF4D6D&icon_color=FF4D6D&text_color=F7C6CE" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=pratikpatel3076&hide_border=true&background=1A1A1A&ring=FF4D6D&fire=FF4D6D&currStreakLabel=F7C6CE&sideLabels=F7C6CE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F7C6CE" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpatel3076&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=FF4D6D&text_color=F7C6CE" height="160" />
-</p>
-
----
-
 ### Connect
 
 <p align="center">
@@ -92,11 +82,7 @@ Passive multimodal stress detection system for Indian college students. Built wi
   <a href="https://github.com/pratikpatel3076"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FF4D6D" /></a>
   <a href="mailto:pratikpatel3076@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FF4D6D" /></a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D&height=80&section=footer" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratikpatel3076&label=Profile+Views&color=FF4D6D&style=for-the-badge" />
-</p>
