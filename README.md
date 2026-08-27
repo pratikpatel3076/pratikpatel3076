@@ -46,7 +46,7 @@ Conversational groundwater analysis chatbot over India's CGWB data — natural l
 </td>
 <td width="50%" valign="top">
 
-**SentinelMind**
+**[SentinelMind](https://github.com/pratikpatel3076/sentinel-mind)**
 Passive multimodal stress detection system for Indian college students. Built with DeepFace, librosa, and a React counselor dashboard. Submitted to Samsung Solve for Tomorrow 2026.
 
 </td>
