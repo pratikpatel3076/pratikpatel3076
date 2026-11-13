@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D&height=120&section=header&text=Pratik%20Patel&fontSize=42&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=Backend%20%2B%20AI%2FML%20Engineer&descSize=16&descAlignY=72&descColor=F7C6CE" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D&height=150&section=header&text=Pratik%20Patel&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&animation=fadeIn&desc=Backend%20%2B%20AI%2FML%20Engineer&descSize=16&descAlign=50&descAlignY=70&descColor=F7C6CE" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Engineering-1A1A1A?style=for-the-badge&logo= fastapi&logoColor=FF4D6D" />
+  <img src="https://img.shields.io/badge/Backend%20Engineering-1A1A1A?style=for-the-badge&logo=fastapi&logoColor=FF4D6D" />
   <img src="https://img.shields.io/badge/AI%2FML-1A1A1A?style=for-the-badge&logo=python&logoColor=FF4D6D" />
   <img src="https://img.shields.io/badge/Full--Stack-1A1A1A?style=for-the-badge&logo=react&logoColor=FF4D6D" />
 </p>
-
-# Pratik Patel
 
 **Backend + AI/ML Engineer** · Computer Science Student
 
@@ -35,13 +33,6 @@ A route-planning platform that models delivery constraints and uses **Google OR-
 A web application for managing contact lists, audio uploads, outbound voice campaigns, and campaign reports. The project includes an Express API, MongoDB persistence, a React interface, and a simulation mode for testing campaign flows.
 
 **Tech:** Node.js · Express · MongoDB · React · Twilio
-
-### [Vantage](https://github.com/pratikpatel3076/Vantage)
-**AI-powered startup and funding intelligence**
-
-A platform concept for evaluating startup proposals, identifying strengths and risks, improving funding readiness, and helping founders discover relevant investors and funding opportunities using AI-assisted analysis.
-
-**Focus:** AI product workflows · proposal analysis · funding intelligence
 
 ### [Business Suite — AI HRMS](https://github.com/pratikpatel3076/Business-Suite---AI-HRMS)
 **Modular business and HR management platform**
