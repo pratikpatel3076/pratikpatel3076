@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D&height=120&section=header&text=Pratik%20Patel&fontSize=42&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=Backend%20%2B%20AI%2FML%20Engineer&descSize=16&descAlignY=72&descColor=F7C6CE" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Engineering-1A1A1A?style=for-the-badge&logo= fastapi&logoColor=FF4D6D" />
+  <img src="https://img.shields.io/badge/AI%2FML-1A1A1A?style=for-the-badge&logo=python&logoColor=FF4D6D" />
+  <img src="https://img.shields.io/badge/Full--Stack-1A1A1A?style=for-the-badge&logo=react&logoColor=FF4D6D" />
+</p>
+
 # Pratik Patel
 
 **Backend + AI/ML Engineer** · Computer Science Student
@@ -66,6 +76,12 @@ A modular ERP-style application bringing together HR management, employee operat
 
 ## Connect
 
-- [LinkedIn](https://linkedin.com/in/pratik-patel-a146782ba/)
-- [GitHub](https://github.com/pratikpatel3076)
-- [Email](mailto:pratikpatel3076@gmail.com)
+<p align="center">
+  <a href="http://linkedin.com/in/pratik-patel-a146782ba/"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FF4D6D" /></a>
+  <a href="https://github.com/pratikpatel3076"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FF4D6D" /></a>
+  <a href="mailto:pratikpatel3076@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FF4D6D" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D&height=80&section=footer" width="100%" />
+</p>
