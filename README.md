@@ -3,12 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Engineering-1A1A1A?style=for-the-badge&logo=fastapi&logoColor=FF4D6D" />
+  <img src="https://img.shields.io/badge/Backend%20Engineering-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=1A1A1A" />
   <img src="https://img.shields.io/badge/AI%2FML-1A1A1A?style=for-the-badge&logo=python&logoColor=FF4D6D" />
   <img src="https://img.shields.io/badge/Full--Stack-1A1A1A?style=for-the-badge&logo=react&logoColor=FF4D6D" />
 </p>
 
-**Backend + AI/ML Engineer** · Computer Science Student
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF4D6D&center=true&vCenter=true&width=650&lines=Building+reliable+backend+systems;Integrating+AI+into+real-world+applications;Learning%2C+building%2C+and+shipping" alt="Typing SVG" />
+</p>
+
+**Computer Science Student** focused on backend engineering and applied AI/ML.
 
 I build backend services and AI-powered applications that solve practical problems. My work focuses on API development, data-driven systems, integrating machine learning and LLM capabilities into products, and building clean full-stack interfaces around them.
 
