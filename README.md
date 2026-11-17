@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Full--Stack-1A1A1A?style=for-the-badge&logo=react&logoColor=FF4D6D" />
 </p>
 
-**Computer Science Student** focused on backend engineering and applied AI/ML.
+**Comp-Sci Student** focused on backend engineering and applied AI/ML.
 
 I build backend services and AI-powered applications that solve practical problems. My work focuses on API development, data-driven systems, integrating machine learning and LLM capabilities into products, and building clean full-stack interfaces around them.
 
